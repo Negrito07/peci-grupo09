@@ -1,0 +1,9 @@
+qfields
+qgis 3.22 stable version
+select manage layers toolbar
+codigo 3763
+install quickmapservices plugin
+after installing go to the plugin settings e get package
+
+shapefile
+geopackage 
