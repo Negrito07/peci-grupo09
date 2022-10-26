@@ -6,4 +6,14 @@ install quickmapservices plugin
 after installing go to the plugin settings e get package
 
 shapefile
-geopackage 
+geopackage
+
+grupo_arq
+grupo9peci
+
+gis4cloud.com
+
+tunnel host: gis4cloud.com
+tunnel port: 22
+username: tgfc
+pass: tunel
