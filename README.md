@@ -9,3 +9,16 @@
 )
 
 Para acessar as apresentações no modo de edição usar a **password:** `peci_grupo9_arqproj`
+
+### Base de Dados
+geonode_oddyssey
+pass: geonode
+
+tabelas importantes: ocorrencias(geom: pontos/poligonos), site 
+
+### Reunião
+
+25 novembro:
+projeto funcional tecnologias existentes
+apresentação de defesa da solução (30 novembro)
+
