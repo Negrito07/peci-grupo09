@@ -11,7 +11,7 @@
 Para acessar as apresentações no modo de edição usar a **password:** `peci_grupo9_arqproj`
 
 ### Base de Dados
-**geonode_oddyssey**
+**geonode_odyssey**
 
 **password:** `geonode`
 
