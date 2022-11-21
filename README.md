@@ -15,13 +15,16 @@ Para acessar as apresentações no modo de edição usar a **password:** `peci_g
 
 **password:** `geonode`
 
-tabelas importantes: **ocorrencias(geom: pontos/poligonos), site** 
+Tabelas importantes: 
+- **occurrence** (geom: pontos/poligonos)
+- **site**       (geom: pontos/poligonos)
 
-### Reunião 10/11
+### Reuniões
+- **10/11**
+      
+      25 novembro:
+      - projeto funcional tecnologias existentes
 
-25 novembro:
-- projeto funcional tecnologias existentes
-
-30 novembro:
-- apresentação de defesa da solução
+      30 novembro:
+      - apresentação de defesa da solução
 
