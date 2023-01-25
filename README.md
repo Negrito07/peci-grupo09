@@ -26,12 +26,16 @@ Para acessar as apresentações no modo de edição usar a **password:** `peci_g
 ### Base de Dados
 
 **host:** gis4cloud.pt
+
 **port:** 5432
+
 **utilizador:** geonode_odyssey
+
 **password:** `geonode`
+
 **SSH Tunel:**
 - **username:** tgfc
-- **passord:** tunel
+- **password:** tunel
 
 
 Tabelas importantes: 
