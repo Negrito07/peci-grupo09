@@ -24,9 +24,19 @@ Para acessar as apresentações no modo de edição usar a **password:** `peci_g
 [editar](https://www.overleaf.com/1784455931dbnhsnqnrrwf)
 
 ### Base de Dados
-**geonode_odyssey**
+
+**host:** gis4cloud.pt
+
+**port:** 5432
+
+**utilizador:** geonode_odyssey
 
 **password:** `geonode`
+
+**SSH Tunel:**
+- **username:** tgfc
+- **password:** tunel
+
 
 Tabelas importantes: 
 - **occurrence** (geom: pontos/poligonos)
