@@ -1,4 +1,4 @@
-# _peci-grupo09_ - Site do Projeto
+# _peci-grupo09_
 ## Plataforma mobile para anotação de sítios arqueológicos
 ### Apresentações
 
@@ -18,25 +18,15 @@
 [slides](https://uapt33090-my.sharepoint.com/:p:/g/personal/negrigabriel_ua_pt/EanOeTx9gUxCh1LWcUlLu6kBAXrF2YLZ2Y6eHTmlzXtPlw?e=UZt21P&nav=eyJzSWQiOjI1OCwiY0lkIjoyNjE1Mzk1MDYxfQ)
 )
 
+- Fase 2 - Demonstração Soluções
+(
+[slides](https://www.canva.com/design/DAFeYRclDms/r66QAm0fZR4KpVTC9oTfCw/view?utm_content=DAFeYRclDms&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+)
+
 Para acessar as apresentações no modo de edição usar a **password:** `peci_grupo9_arqproj`
 
 ### Relatório
 [editar](https://www.overleaf.com/1784455931dbnhsnqnrrwf)
-
-### Base de Dados
-
-**host:** gis4cloud.pt
-
-**port:** 5432
-
-**utilizador:** geonode_odyssey
-
-**password:** `geonode`
-
-**SSH Tunel:**
-- **username:** tgfc
-- **password:** tunel
-
 
 Tabelas importantes: 
 - **occurrence** (geom: pontos/poligonos)
