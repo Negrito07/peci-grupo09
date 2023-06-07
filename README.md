@@ -27,6 +27,7 @@ Para acessar as apresentações no modo de edição usar a **password:** `peci_g
 
 ### Relatório
 [editar](https://www.overleaf.com/1784455931dbnhsnqnrrwf)
+[editar](https://docs.google.com/document/d/12fpOrr-yVQN4W0Y42V-spO2WoGsvUVFBYgND44rrnVU/edit?usp=sharing=)
 
 Tabelas importantes: 
 - **occurrence** (geom: pontos/poligonos)
