@@ -28,16 +28,3 @@ Para acessar as apresentações no modo de edição usar a **password:** `peci_g
 ### Relatório Final
 [overleaf](https://www.overleaf.com/1784455931dbnhsnqnrrwf)
 
-Tabelas importantes: 
-- **occurrence** (geom: pontos/poligonos)
-- **site**       (geom: pontos/poligonos)
-
-### Reuniões
-- **10/11**
-      
-      25 novembro:
-      - projeto funcional tecnologias existentes
-
-      30 novembro:
-      - apresentação de defesa da solução
-
